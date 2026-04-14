@@ -96,11 +96,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="figuras/automacao_hopper.png" width="500" alt="Automation Example">
-  <p><i>Example of Hopper automation setup.</i></p>
-</div>
-
 <hr>
 
 <h2 align="center">🛠️ Installation</h2>
@@ -119,6 +114,5 @@
 <hr>
 
 <div align="center">
-  <p>Developed with ❤️ for the Minecraft Community</p>
   <p><b>Version:</b> 1.0.0 | <b>Platform:</b> Fabric 1.20.6</p>
 </div>
