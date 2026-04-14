@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north,tier=1": { "model": "stackable_furnace:block/stackable_furnace" },
+    "facing=east,tier=1": { "model": "stackable_furnace:block/stackable_furnace", "y": 90 },
+    "facing=south,tier=1": { "model": "stackable_furnace:block/stackable_furnace", "y": 180 },
+    "facing=west,tier=1": { "model": "stackable_furnace:block/stackable_furnace", "y": 270 },
+
+    "facing=north,tier=2": { "model": "stackable_furnace:block/stackable_furnace" },
+    "facing=east,tier=2": { "model": "stackable_furnace:block/stackable_furnace", "y": 90 },
+    "facing=south,tier=2": { "model": "stackable_furnace:block/stackable_furnace", "y": 180 },
+    "facing=west,tier=2": { "model": "stackable_furnace:block/stackable_furnace", "y": 270 },
+
+    "facing=north,tier=3": { "model": "stackable_furnace:block/stackable_furnace" },
+    "facing=east,tier=3": { "model": "stackable_furnace:block/stackable_furnace", "y": 90 },
+    "facing=south,tier=3": { "model": "stackable_furnace:block/stackable_furnace", "y": 180 },
+    "facing=west,tier=3": { "model": "stackable_furnace:block/stackable_furnace", "y": 270 },
+
+    "facing=north,tier=4": { "model": "stackable_furnace:block/stackable_furnace" },
+    "facing=east,tier=4": { "model": "stackable_furnace:block/stackable_furnace", "y": 90 },
+    "facing=south,tier=4": { "model": "stackable_furnace:block/stackable_furnace", "y": 180 },
+    "facing=west,tier=4": { "model": "stackable_furnace:block/stackable_furnace", "y": 270 }
+  }
+}
