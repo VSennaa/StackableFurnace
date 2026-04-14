@@ -1,0 +1,19 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "meu-litellm": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Roteador LiteLLM",
+      "options": {
+        "baseURL": "http://localhost:4000/v1",
+        "apiKey": "sk-1234"
+      },
+      "models": {
+        "AgenteOpenCode": {
+          "name": "Agente Blindado (Groq -> Gemini)"
+        }
+      }
+    }
+  },
+  "model": "meu-litellm/AgenteOpenCode"
+}
