@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="figuras/capa.png" width="600" alt="Stackable Furnace Banner">
   <h1>🔥 Stackable Furnace</h1>
   <p align="center">
     <b>A multi-tier smelting system for Fabric 1.20.6.</b><br>
@@ -13,7 +12,7 @@
   <b>Stackable Furnace</b> redefines the traditional smelting process by introducing a scalable block system. Instead of crafting multiple furnaces, you upgrade a single block through tiers, unlocking more smelting lines and increasing your industrial capacity within a single block space.
 </p>
 
-<h2 align="center">✨ Key Features</h2>
+<h2 align="center">Key Features</h2>
 
 <div align="center">
   <table>
@@ -33,8 +32,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>🖥️ Custom Code-Based GUI</b></td>
-      <td><b>📦 Container Compatibility</b></td>
+      <td><b>Custom Code-Based GUI</b></td>
+      <td><b>Container Compatibility</b></td>
     </tr>
     <tr>
       <td>A sleek, fully programmatic interface showing real-time progress for every active tier, eliminating the need for external textures.</td>
