@@ -2,8 +2,7 @@
   <img src="figuras/capa.png" width="600" alt="Stackable Furnace Banner">
   <h1>🔥 Stackable Furnace</h1>
   <p align="center">
-    <b>A high-efficiency, multi-tier smelting system for Fabric 1.20.6.</b><br>
-    <i>Scale your production, boost your speed, and automate your workflow.</i>
+    <b>A multi-tier smelting system for Fabric 1.20.6.</b><br>
   </p>
 </div>
 
@@ -19,8 +18,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>🛠️ Multi-Tier Progression</b></td>
-      <td><b>⚡ Global Turbo Boost</b></td>
+      <td><b>Multi-Tier Progression</b></td>
+      <td><b>Global Turbo Boost</b></td>
     </tr>
     <tr>
       <td>Start at Tier 1 and upgrade up to Tier 4 using the furnace block itself. The cost is progressive (Tier 2: 1 block, Tier 3: 2 blocks, Tier 4: 3 blocks).</td>
